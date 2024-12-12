@@ -1,0 +1,9 @@
+﻿@ProApiFull.Api_HostAddress = https://localhost:7286
+
+GET {{ProApiFull.Api_HostAddress}}/weatherforecast/Random-Number
+
+###
+
+GET {{ProApiFull.Api_HostAddress}}/weatherforecast
+
+###

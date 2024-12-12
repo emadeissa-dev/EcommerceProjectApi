@@ -1,0 +1,63 @@
+1.Http = Hyper Text Transfer Protocol
+2.Http Request And Response
+3.Http Verbs
+4.Http Status Code
+5.URI => uniform Resource Identifier => Scheme + Prefix + Authority +Path => Query + Fragment
+6.Https - TLS
+7.SSL => Secure Socket Layer
+8.REST => Representional State Transfer
+9.Rest Constraints 
+10.URL Naming 
+=============
+11.API => Application Programming Interface
+12..Net Core
+--------
+13.Visual Studio Confirgrations => 
+ColorCoder - For Change Color
+TextEditor.General.Enable Brace Colorization - For Change Square Prackets
+Hints.Display Inline Parmtername hints - For Create Hints In Parmeters
+C# . Code Style . General . Code Block Prefrences . Namespace Declaration
+To Create Focus . Project And Solutions . General . Track Active Item
+TextEditor.C# . Code Style . Naming . Add Role . Private Internal Feiled lower Case
+--
+ColorCoder - Color Parmeter - Hints Parmeters - Track Current File
+=================
+14. Dependency Injection
+15.Service Life Time => Transient . Scope . Singliton
+16.Keyed Services
+17.MiddelWare
+18.Div Ops - Git hub
+19.CreatedAtAction
+20.Route Constraints
+21.Parameter Binding
+22.Routes => QueryString - Header - Body(Json) - Body(key-keyValuePair) 
+23.Manual Mapping
+24.Implicit Mapping
+25.AutoMapper
+26.Mapster 
+27.DataAnnotations
+28.CustomValidationAttributes
+29.FluentValidations
+30.Authorization
+31.Identity Api ApiEndpoints
+32.Genrate JWT Token
+33.Option Patterns 
+33.App Setting = Enviarment Variables = SecretKey
+34.Refresh Token - ValidateToken - Revoke Token
+35.CORS = Cross-Origin Resouce Sharing
+36.SOP Same-Origin Policy
+37.Result Pattern
+38.Package OneOf
+39.Return Problem
+Logging
+Caching
+package redias caching
+Response Caching
+OutPut Caching
+Memory Caching
+Distributed Caching
+Hybried Caching
+
+Questions
+How To Validate CreateRange By Fluent Validations
+How To Get Country User Form Ip Address
